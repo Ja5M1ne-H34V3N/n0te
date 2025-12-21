@@ -1,0 +1,298 @@
+{
+  "main": {
+    "id": "f2087adf659a25bc",
+    "type": "split",
+    "children": [
+      {
+        "id": "aede041613fc14a9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5d4e83c3a2c6a33e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "note/数据库/数据库管理 26405a2041d2808dad83ea78afdcd461.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "数据库管理 26405a2041d2808dad83ea78afdcd461"
+            }
+          },
+          {
+            "id": "2d1e717496b6bd53",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2025 算法应用赛·脑机与应急机器人技术报告.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2025 算法应用赛·脑机与应急机器人技术报告"
+            }
+          },
+          {
+            "id": "b22333af89ed73ee",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "metadata.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "metadata"
+            }
+          },
+          {
+            "id": "d1a2d4ac93ba33d1",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "新标签页"
+            }
+          },
+          {
+            "id": "f981d9567501455b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "note/算法导论/算法导论/贪心算法.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "贪心算法"
+            }
+          },
+          {
+            "id": "c558626565b44117",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "关系图谱"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d3e2e494fc8ec92d",
+    "type": "split",
+    "children": [
+      {
+        "id": "824cbe8fd54e7756",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dd7305cd0ca38b95",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "619cf7f5969d32e1",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "85f165deb1a7fffd",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 370.5
+  },
+  "right": {
+    "id": "995d9c2cebab496c",
+    "type": "split",
+    "children": [
+      {
+        "id": "1f6989a645b59baf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a02727c7cedf6d59",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "note/计网/计网/第二章——应用层 26905a2041d2801bb99dc977d94259c0.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "第二章——应用层 26905a2041d2801bb99dc977d94259c0 的反向链接列表"
+            }
+          },
+          {
+            "id": "708bef29b5390a34",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "note/计网/计网/第二章——应用层 26905a2041d2801bb99dc977d94259c0.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "第二章——应用层 26905a2041d2801bb99dc977d94259c0 的出链列表"
+            }
+          },
+          {
+            "id": "90a0f4e104cef7ab",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "289fff0798f57604",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "f8556ac6b64342ed",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "note/计网/计网/第二章——应用层 26905a2041d2801bb99dc977d94259c0.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "第二章——应用层 26905a2041d2801bb99dc977d94259c0 的大纲"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:创建新数据库": false
+    }
+  },
+  "active": "c558626565b44117",
+  "lastOpenFiles": [
+    "README.md",
+    "note/算法导论/算法导论/通过使用特定数据结构来提高你算法的效率.md",
+    "note/算法导论/算法导论/贪心算法.md",
+    "2025 算法应用赛·脑机与应急机器人技术报告.md",
+    "metadata.md",
+    "note/数据库/数据库管理 26405a2041d2808dad83ea78afdcd461.md",
+    "sfdl.md",
+    "note/算法导论/算法导论/贪心算法/Pasted image 20251220185617.png",
+    "note/算法导论/算法导论/动态规划.md",
+    "Pasted image 20251220150537.png",
+    "note/算法导论/算法导论/最短路径问题.md",
+    "note/算法导论/算法导论.md",
+    "note/算法导论/算法导论/和图有关的算法.md",
+    "note/算法导论/算法导论/回溯法Backtracking 单调栈 28905a2041d280e5a841c55f63523866.md",
+    "note/算法导论/算法导论/算法设计和分析基础 26305a2041d2808d8c4be86a3e6808a9.md",
+    "note/算法导论/算法导论/最小生成树 MST.md",
+    "note/数据结构/数据结构/复杂度 和大O记法（ing） 1d605a2041d280a0b21dcfc7c0912cf4.md",
+    "note/数据结构/数据结构/二叉搜索树（BST）.md",
+    "数据结构/数据结构/二叉搜索树（BST）.md",
+    "数据结构/数据结构",
+    "数据结构",
+    "note/算法导论/算法导论/作业题 29605a2041d2805a9afdcf201344b101.md",
+    "note/算法导论/算法导论/概述 26305a2041d280faab4ed506791059a7.md",
+    "note/算法导论/算法导论/分治法 Divide and conquer 27c05a2041d28024a526f978e58190a1.md",
+    "note/算法导论/算法导论/分类，排序 26a05a2041d2803c9d39cf65f3a8b06c.md",
+    "note/算法导论/算法导论/最小生成树/Pasted image 20251218205345.png",
+    "note/算法导论/算法导论/最小生成树/Pasted image 20251218203355.png",
+    "meta-data.md",
+    "note/数据库/数据库管理/关联数据库的设计 28805a2041d2803c9223d1d6a57d7248.md",
+    "Pasted image 20251218160853.png",
+    "Pasted image 20251218154805.png",
+    "Pasted image 20251218154700.png",
+    "Pasted image 20251218153822.png",
+    "Pasted image 20251218195255.png",
+    "Pasted image 20251218162054.png",
+    "note/算法导论/算法导论/最小生成树",
+    "note/算法导论/算法导论/最短路径问题/总览.md",
+    "未命名.md",
+    "note/数据库/数据库管理/利用实体-关系模型设计数据库 27705a2041d28046a6faecd76658c092.md",
+    "大学生就业指导/杜辰光-19g242/应聘数据分析师_杜辰光_中国地质大学（武汉）_15732425859.pdf",
+    "大学生就业指导/杜辰光-19g242/大学生就业指导结课报告.pdf",
+    "大学生就业指导/杜辰光-19g242",
+    "大学生就业指导/新建文件夹",
+    "大学生就业指导/大学生就业指导结课报告.pdf",
+    "大学生就业指导/应聘数据分析师_杜辰光_中国地质大学（武汉）_15732425859.pdf",
+    "大学生就业指导/附件照片"
+  ]
+}
