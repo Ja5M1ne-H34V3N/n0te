@@ -55,35 +55,21 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "7.md",
+                "file": "note/概率论/提到的公式.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "7"
+              "title": "提到的公式"
             }
           },
           {
-            "id": "144ae903f16e312d",
+            "id": "57fd9ab78d69ef1e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "8.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "8"
-            }
-          },
-          {
-            "id": "559b8638828e0d55",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "未命名.md",
+                "file": "note/习概/未命名.md",
                 "mode": "source",
                 "source": false
               },
@@ -92,143 +78,35 @@
             }
           },
           {
-            "id": "6bda1c4319035de7",
+            "id": "be54d9877fb6668d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sfdl.md",
+                "file": "note/习概/复习资料.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "sfdl"
+              "title": "复习资料"
             }
           },
           {
-            "id": "330c841b7f0b6864",
+            "id": "3ab913fae0b63413",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "8.md",
+                "file": "note/习概/复习资料.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "8"
-            }
-          },
-          {
-            "id": "ae2494031e117cc1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "9.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "9"
-            }
-          },
-          {
-            "id": "dbe6d069bcbddef1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "10.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "10"
-            }
-          },
-          {
-            "id": "7766f335e5ff4c3b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "11.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "11"
-            }
-          },
-          {
-            "id": "ff1fbf97f3b3cb57",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "sfdlhw.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "sfdlhw"
-            }
-          },
-          {
-            "id": "b22333af89ed73ee",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "metadata.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "metadata"
-            }
-          },
-          {
-            "id": "d1a2d4ac93ba33d1",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "新标签页"
-            }
-          },
-          {
-            "id": "f981d9567501455b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "note/算法导论/算法导论/贪心算法.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "贪心算法"
-            }
-          },
-          {
-            "id": "c558626565b44117",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "note/数据结构/数据结构/图.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "图"
+              "title": "复习资料"
             }
           }
         ],
-        "currentTab": 11
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -390,34 +268,37 @@
       "bases:创建新数据库": false
     }
   },
-  "active": "ff1fbf97f3b3cb57",
+  "active": "3ab913fae0b63413",
   "lastOpenFiles": [
-    "note/算法导论/算法导论/最短路径问题/无负环有向图的最短路径树.md",
-    "note/算法导论/算法导论/最短路径问题.md",
-    "note/算法导论/算法导论/最短路径问题/无负边图的最短生成树.md",
-    "note/算法导论/算法导论/最短路径问题/有向无环图中的最短生成树.md",
-    "note/算法导论/算法导论/最短路径问题/总览.md",
-    "note/算法导论/算法导论/最小生成树 MST.md",
-    "note/算法导论/算法导论/通过使用特定数据结构来提高你算法的效率.md",
-    "note/算法导论/算法导论/贪心算法.md",
-    "note/算法导论/算法导论/算法设计和分析基础 26305a2041d2808d8c4be86a3e6808a9.md",
-    "note/算法导论/算法导论/回溯法Backtracking 单调栈 28905a2041d280e5a841c55f63523866.md",
-    "note/算法导论/算法导论/和图有关的算法.md",
-    "note/算法导论/算法导论/动态规划.md",
-    "未命名.md",
-    "11.md",
-    "10.md",
-    "9.md",
-    "8.md",
-    "7.md",
-    "6.md",
-    "sfdlhw.md",
-    "sfdl2.md",
-    "sfdl.md",
     "README.md",
-    "metadata.md",
-    "meta-data.md",
-    "未命名 1.md",
+    "note/习概/train-set.md",
+    "note/习概/复习资料.md",
+    "note/习概/未命名.md",
+    "note/概率论/提到的公式.md",
+    "note/习概",
+    "note/数据库/数据库管理/深层SQL.md",
+    "note/数据库/数据库管理 26405a2041d2808dad83ea78afdcd461.md",
+    "note/数据库/核心知识点.md",
+    "note/算法导论/算法导论/通过使用特定数据结构来提高你算法的效率.md",
+    "note/算法导论/算法导论/最小生成树 MST.md",
+    "note/算法导论/算法导论/作业题 29605a2041d2805a9afdcf201344b101.md",
+    "7.md",
+    "note/数据库/数据库管理/关联模型/介绍关联模型 26f05a2041d280fdb4d1e44fd9487bf8.md",
+    "note/数据库/数据库管理/关联模型 26f05a2041d280cd9f27dd060cd32c15.md",
+    "note/数据库/数据库管理/介绍 26405a2041d28029a8dee53e3a831494.md",
+    "note/数据库/数据库管理/关联数据库的设计 28805a2041d2803c9223d1d6a57d7248.md",
+    "note/数据库/数据库管理/利用实体-关系模型设计数据库 27705a2041d28046a6faecd76658c092.md",
+    "chofy@iit.edu.md",
+    "note/数据库/数据库管理/Decision Point Option-2025-12-24-104200.png",
+    "8.md",
+    "sfdl.md",
+    "9.md",
+    "10.md",
+    "11.md",
+    "note/数据库/数据库管理/Decision Point Option-2025-12-24-092017.png",
+    "note/数据结构/数据结构/图.md",
+    "note/算法导论/算法导论/和图有关的算法.md",
+    "sfdlhw.md",
     "note/算法导论/算法导论/最小生成树/Pasted image 20251222182900.png",
     "note/算法导论/算法导论/最小生成树/Pasted image 20251222170253.png",
     "note/算法导论/算法导论/最小生成树/Pasted image 20251222160628.png",
@@ -427,8 +308,6 @@
     "note/算法导论/算法导论/最短路径问题/无负环有向图的最短路径树/Pasted image 20251222104418.png",
     "note/算法导论/算法导论/最短路径问题/无负边图的最短生成树/Pasted image 20251221225747.png",
     "note/算法导论/算法导论/最短路径问题/无负边图的最短生成树/Pasted image 20251221225514.png",
-    "note/算法导论/算法导论/最短路径问题/无负边图的最短生成树/Pasted image 20251221223820.png",
-    "note/算法导论/算法导论/和图有关的算法/Pasted image 20251221193645.png",
     "算法/算法",
     "算法",
     "数据结构/数据结构",
@@ -436,7 +315,6 @@
     "note/算法导论/算法导论/最小生成树",
     "大学生就业指导/杜辰光-19g242/应聘数据分析师_杜辰光_中国地质大学（武汉）_15732425859.pdf",
     "大学生就业指导/杜辰光-19g242/大学生就业指导结课报告.pdf",
-    "大学生就业指导/杜辰光-19g242",
-    "大学生就业指导/新建文件夹"
+    "大学生就业指导/杜辰光-19g242"
   ]
 }
